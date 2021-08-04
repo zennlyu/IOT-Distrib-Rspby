@@ -1,0 +1,6 @@
+C:\Users\sc\Desktop\USB7660系列_demo_C#(AD部分) - x64生成\USB7660\USB7660\bin\x64\Release\USB7660.exe.config
+C:\Users\sc\Desktop\USB7660系列_demo_C#(AD部分) - x64生成\USB7660\USB7660\bin\x64\Release\USB7660.exe
+C:\Users\sc\Desktop\USB7660系列_demo_C#(AD部分) - x64生成\USB7660\USB7660\obj\Release\USB7660.csprojResolveAssemblyReference.cache
+C:\Users\sc\Desktop\USB7660系列_demo_C#(AD部分) - x64生成\USB7660\USB7660\obj\Release\USB7660.MainForm.resources
+C:\Users\sc\Desktop\USB7660系列_demo_C#(AD部分) - x64生成\USB7660\USB7660\obj\Release\USB7660.csproj.GenerateResource.Cache
+C:\Users\sc\Desktop\USB7660系列_demo_C#(AD部分) - x64生成\USB7660\USB7660\obj\Release\USB7660.exe

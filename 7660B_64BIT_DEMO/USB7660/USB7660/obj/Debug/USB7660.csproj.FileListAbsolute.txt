@@ -1,0 +1,55 @@
+C:/Documents and Settings/Administrator/桌面/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/bin/Debug/USB7660.exe
+C:/Documents and Settings/Administrator/桌面/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/bin/Debug/USB7660.pdb
+C:/Documents and Settings/Administrator/桌面/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/ResolveAssemblyReference.cache
+C:/Documents and Settings/Administrator/桌面/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.MainForm.resources
+C:/Documents and Settings/Administrator/桌面/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/GenerateResource.read.1.tlog
+C:/Documents and Settings/Administrator/桌面/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/GenerateResource.write.1.tlog
+C:/Documents and Settings/Administrator/桌面/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.exe
+C:/Documents and Settings/Administrator/桌面/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.pdb
+E:/usb7660/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/bin/Debug/USB7660.exe
+E:/usb7660/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/bin/Debug/USB7660.pdb
+E:/usb7660/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/ResolveAssemblyReference.cache
+E:/usb7660/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.MainForm.resources
+E:/usb7660/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/GenerateResource.read.1.tlog
+E:/usb7660/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/GenerateResource.write.1.tlog
+E:/usb7660/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.exe
+E:/usb7660/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.pdb
+E:/USB7660系列/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/bin/Debug/USB7660.exe
+E:/USB7660系列/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/bin/Debug/USB7660.pdb
+E:/USB7660系列/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/ResolveAssemblyReference.cache
+E:/USB7660系列/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.MainForm.resources
+E:/USB7660系列/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.csproj.GenerateResource.Cache
+E:/USB7660系列/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.exe
+E:/USB7660系列/标准例程/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.pdb
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/bin/Debug/USB7660.exe
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/bin/Debug/USB7660.pdb
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.MainForm.resources
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.csproj.GenerateResource.Cache
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.exe
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.pdb
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/bin/Debug/USB7660.exe.config
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分)/USB7660/USB7660/obj/Debug/USB7660.csprojResolveAssemblyReference.cache
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/bin/x64/Debug/USB7660.exe.config
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/bin/x64/Debug/USB7660.exe
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/bin/x64/Debug/USB7660.pdb
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.MainForm.resources
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.csproj.GenerateResource.Cache
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.exe
+C:/Users/sc/Desktop/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.pdb
+C:/Users/sc/Documents/Tencent Files/915324613/FileRecv/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/bin/x64/Debug/USB7660.exe.config
+C:/Users/sc/Documents/Tencent Files/915324613/FileRecv/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/bin/x64/Debug/USB7660.exe
+C:/Users/sc/Documents/Tencent Files/915324613/FileRecv/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/bin/x64/Debug/USB7660.pdb
+C:/Users/sc/Documents/Tencent Files/915324613/FileRecv/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.MainForm.resources
+C:/Users/sc/Documents/Tencent Files/915324613/FileRecv/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.csproj.GenerateResource.Cache
+C:/Users/sc/Documents/Tencent Files/915324613/FileRecv/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.exe
+C:/Users/sc/Documents/Tencent Files/915324613/FileRecv/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.pdb
+C:/Users/sc/Documents/Tencent Files/915324613/FileRecv/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.csprojResolveAssemblyReference.cache
+/Users/lydia/Desktop/7660B/USB7660/例程/USB方式/64位系统/例程/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/bin/Debug/USB7660.exe.config
+/Users/lydia/Desktop/7660B/USB7660/例程/USB方式/64位系统/例程/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/bin/Debug/USB7660.exe
+/Users/lydia/Desktop/7660B/USB7660/例程/USB方式/64位系统/例程/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/bin/Debug/USB7660.pdb
+/Users/lydia/Desktop/7660B/USB7660/例程/USB方式/64位系统/例程/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.csproj.AssemblyReference.cache
+/Users/lydia/Desktop/7660B/USB7660/例程/USB方式/64位系统/例程/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.MainForm.resources
+/Users/lydia/Desktop/7660B/USB7660/例程/USB方式/64位系统/例程/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.csproj.GenerateResource.cache
+/Users/lydia/Desktop/7660B/USB7660/例程/USB方式/64位系统/例程/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.csproj.CoreCompileInputs.cache
+/Users/lydia/Desktop/7660B/USB7660/例程/USB方式/64位系统/例程/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.exe
+/Users/lydia/Desktop/7660B/USB7660/例程/USB方式/64位系统/例程/USB7660系列_demo_C#(AD部分) - x64生成/USB7660系列_demo_C#(AD部分) - x64生成/USB7660/USB7660/obj/Debug/USB7660.pdb

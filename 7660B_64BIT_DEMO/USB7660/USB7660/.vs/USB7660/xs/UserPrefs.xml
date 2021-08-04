@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{90D73B7C-6685-4A5E-B248-4E16FDA704D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainForm.cs">
+    <Files>
+      <File FileName="MainForm.resx" Line="1" Column="1" />
+      <File FileName="MainForm.cs" Line="1" Column="1" />
+      <File FileName="Properties/AssemblyInfo.cs" />
+      <File FileName="DLL7660.cs" />
+      <File FileName="MainForm.Designer.cs" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="USB7660" expanded="True">
+            <Node name="USB7660" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MainForm.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.USB7660 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
